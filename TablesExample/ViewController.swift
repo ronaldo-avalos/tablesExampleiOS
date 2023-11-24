@@ -16,7 +16,8 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.dataSource = self
-        tableView.register(UITableViewCell.self, forCellReuseIdentifier: "mi-celda")
+        tableView.register(UINib(nibName: "TableViewCell_Custom", bundle: nil), forCellReuseIdentifier: "TableViewCell_Custom" )
+//        tableView.register(UITableViewCell.self, forCellReuseIdentifier: "mi-celda")
         // Do any additional setup after loading the view.
         // Para interactuar implmentar el delegate
         tableView.delegate = self
@@ -31,8 +32,10 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "mi-celda",for: indexPath)
-        cell.textLabel?.text = "Soy la celda No \(indexPath.row)"
+        let cell = tableView.dequeueReusableCell(withIdentifier: "TableViewCell_Custom",for: indexPath)
+        
+        (cell as? TableViewCell_Custom)?.setupCell(userName: "@Usuario\(indexPath.row)", userMessage: "Soy un tweet!")
+        
         return cell
     }
     
