@@ -18,6 +18,8 @@
 		CE63C89F2B110EA8001A8FC5 /* TablesExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE63C89E2B110EA8001A8FC5 /* TablesExampleUITestsLaunchTests.swift */; };
 		CE63C8AE2B11165D001A8FC5 /* TableViewCell_Custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE63C8AC2B11165D001A8FC5 /* TableViewCell_Custom.swift */; };
 		CE63C8AF2B11165D001A8FC5 /* TableViewCell_Custom.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE63C8AD2B11165D001A8FC5 /* TableViewCell_Custom.xib */; };
+		CE63C8B12B111FE3001A8FC5 /* Tweet.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE63C8B02B111FE2001A8FC5 /* Tweet.swift */; };
+		CE63C8B32B112B0D001A8FC5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE63C8B22B112B0D001A8FC5 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		CE63C89E2B110EA8001A8FC5 /* TablesExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablesExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		CE63C8AC2B11165D001A8FC5 /* TableViewCell_Custom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell_Custom.swift; sourceTree = "<group>"; };
 		CE63C8AD2B11165D001A8FC5 /* TableViewCell_Custom.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell_Custom.xib; sourceTree = "<group>"; };
+		CE63C8B02B111FE2001A8FC5 /* Tweet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tweet.swift; sourceTree = "<group>"; };
+		CE63C8B22B112B0D001A8FC5 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,8 @@
 				CE63C8842B110EA8001A8FC5 /* Assets.xcassets */,
 				CE63C8862B110EA8001A8FC5 /* LaunchScreen.storyboard */,
 				CE63C8892B110EA8001A8FC5 /* Info.plist */,
+				CE63C8B02B111FE2001A8FC5 /* Tweet.swift */,
+				CE63C8B22B112B0D001A8FC5 /* DetailViewController.swift */,
 			);
 			path = TablesExample;
 			sourceTree = "<group>";
@@ -274,7 +280,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE63C8802B110EA6001A8FC5 /* ViewController.swift in Sources */,
+				CE63C8B12B111FE3001A8FC5 /* Tweet.swift in Sources */,
 				CE63C87C2B110EA6001A8FC5 /* AppDelegate.swift in Sources */,
+				CE63C8B32B112B0D001A8FC5 /* DetailViewController.swift in Sources */,
 				CE63C8AE2B11165D001A8FC5 /* TableViewCell_Custom.swift in Sources */,
 				CE63C87E2B110EA6001A8FC5 /* SceneDelegate.swift in Sources */,
 			);

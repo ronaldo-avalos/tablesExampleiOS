@@ -14,10 +14,214 @@
             filePath = "TablesExample/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "13"
-            endingLineNumber = "13"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
             landmarkName = "tableView"
             landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AAA27CC-A2E1-4AB9-BD7C-13C69C0612D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TablesExample/Cells/TableViewCell_Custom.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "TableViewCell_Custom"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2AAA27CC-A2E1-4AB9-BD7C-13C69C0612D8 - c84795735f132354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.setupCell(userName: Swift.String, userMessage: Swift.String) -&gt; ()"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/TablesExample/Cells/TableViewCell_Custom.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "2AAA27CC-A2E1-4AB9-BD7C-13C69C0612D8 - 5daf3add0a8154f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.setupCell(userName: Swift.String, userMessage: Swift.String, imageURL: Swift.Optional&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/TablesExample/Cells/TableViewCell_Custom.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7BBA6CA-C002-43B8-93D5-89E7DB55E3C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TablesExample/Cells/TableViewCell_Custom.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "setupCell(userName:userMessage:imageURL:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C77BCEB5-61E0-4A6D-84B2-9336CAD7BB66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TablesExample/Cells/TableViewCell_Custom.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TableViewCell_Custom"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C77BCEB5-61E0-4A6D-84B2-9336CAD7BB66 - d8a343aef14bbd1a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.userImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/TablesExample/Cells/TableViewCell_Custom.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C77BCEB5-61E0-4A6D-84B2-9336CAD7BB66 - 794d27da5289810e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.userImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/TablesExample/Cells/TableViewCell_Custom.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "C77BCEB5-61E0-4A6D-84B2-9336CAD7BB66 - f785d755669f5857"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.userImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/TablesExample/Cells/TableViewCell_Custom.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C77BCEB5-61E0-4A6D-84B2-9336CAD7BB66 - 7f8b9de25f38995c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.userImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C77BCEB5-61E0-4A6D-84B2-9336CAD7BB66 - 43f3553eada4445c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TablesExample.TableViewCell_Custom"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/TablesExample/Cells/TableViewCell_Custom.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C77BCEB5-61E0-4A6D-84B2-9336CAD7BB66 - 5034baa24f07eebd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TablesExample.TableViewCell_Custom.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TablesExample.TableViewCell_Custom&gt;"
+                  moduleName = "TablesExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronaldoavalos/workspace/ExamplesiOS/TablesExample/TablesExample/Cells/TableViewCell_Custom.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4FA5869-DBC4-4576-B186-6E6DBFF78104"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TablesExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "743561DB-3CF4-41BA-B118-3B95AC3CE500"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TablesExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
